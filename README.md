@@ -1,6 +1,6 @@
 # location-updates
 
-Using [DefaultLocationClient.kt](app%2Fsrc%2Fmain%2Fjava%2Fcom%2Fsvksricharan%2Ffetchlocation%2FfetchLocation%2FDefaultLocationClient.kt) we can separate the logic of
+Using [DefaultLocationClient.kt](locationupdates%2Fsrc%2Fmain%2Fjava%2Fcom%2Fsvksricharan%2Flocationupdates%2FfetchLocation%2FDefaultLocationClient.kt) we can separate the logic of
 fetching location in Activity.
 
 In [ContextExt.kt](app%2Fsrc%2Fmain%2Fjava%2Fcom%2Fsvksricharan%2Ffetchlocation%2FContextExt.kt) updateLocation function will get you updates 
