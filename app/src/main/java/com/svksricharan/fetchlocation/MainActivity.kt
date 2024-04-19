@@ -33,10 +33,10 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.google.android.gms.common.api.ResolvableApiException
 import com.google.android.gms.location.LocationServices
-import com.svksricharan.fetchlocation.fetchLocation.DefaultLocationClient
-import com.svksricharan.fetchlocation.fetchLocation.LocationClient
-import com.svksricharan.fetchlocation.fetchLocation.LocationUpdateCallback
 import com.svksricharan.fetchlocation.ui.theme.FetchLocationTheme
+import com.svksricharan.locationupdates.fetchLocation.DefaultLocationClient
+import com.svksricharan.locationupdates.fetchLocation.LocationClient
+import com.svksricharan.locationupdates.fetchLocation.LocationUpdateCallback
 import kotlinx.coroutines.Job
 import java.util.Locale
 

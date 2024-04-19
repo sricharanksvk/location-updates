@@ -45,7 +45,7 @@ android {
 }
 dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.20")
-
+    implementation(project(":locationupdates"))
     implementation("androidx.core:core-ktx:1.8.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.5.0")

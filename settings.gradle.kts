@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "fetchLocation"
 include(":app")
+include(":locationupdates")
